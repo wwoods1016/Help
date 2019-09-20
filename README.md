@@ -9,4 +9,8 @@ Wireframe web and mobile formats
 
 Decide on file structure paradigm
 
+Discover how to get a project deployed to an actual URL...
+
+Start working on a wedding website for Chris and Kati
+
 Keep working!
